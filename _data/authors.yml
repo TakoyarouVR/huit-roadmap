@@ -82,3 +82,15 @@ hanchan:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/noriHanda"
+
+takoyarou:
+  name     : "Takoyarou"
+  avatar   : "/assets/images/takoyarou.png"
+  bio      : "別にタコを食べるのは好きじゃない人"
+  links:
+    - label: "Twitter(現X)"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/takoyarou_VRC"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TakoyarouVR"
